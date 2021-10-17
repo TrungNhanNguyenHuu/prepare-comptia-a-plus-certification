@@ -10,3 +10,6 @@ Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)
 <br />
 <br />
 [2. CompTIA A+ (220-1001) Cert Prep 1: The Basics](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-1)
+<br />
+<br />
+[3. CompTIA A+ (220-1001) Cert Prep 2: Microprocessing and RAM](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-2)
