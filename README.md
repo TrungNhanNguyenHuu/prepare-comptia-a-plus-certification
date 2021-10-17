@@ -7,3 +7,6 @@ Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)
 <br />
 ## My journey to be awarded the above certificate
 [1. CompTIA A+ (220-1001 and 220-1002) Cert Prep: The Basics](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-0)
+<br />
+<br />
+[2. CompTIA A+ (220-1001) Cert Prep 1: The Basics](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-1)
