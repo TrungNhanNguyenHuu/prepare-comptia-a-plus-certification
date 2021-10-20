@@ -22,3 +22,6 @@ Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)
 <br />
 <br />
 [6. CompTIA A+ (220-1001) Cert Prep 5: Display Technologies](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-5)
+<br />
+<br />
+[7. CompTIA A+ (220-1001) Cert Prep 6: Physical Networking](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-6)
