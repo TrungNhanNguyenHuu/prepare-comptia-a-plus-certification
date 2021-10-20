@@ -19,3 +19,6 @@ Prepare for the CompTIA A+ Certification (220-1001 and 220-1002)
 <br />
 <br />
 [5. CompTIA A+ (220-1001) Cert Prep 4: Storage and Peripherals](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-4)
+<br />
+<br />
+[6. CompTIA A+ (220-1001) Cert Prep 5: Display Technologies](https://github.com/TrungNhanNguyenHuu/prepare-comptia-a-plus-certification/tree/main/comptia-a-plus-220-1001-cert-prep-5)
